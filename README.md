@@ -5,6 +5,13 @@ Project is ready to test!
 
 <img src="https://i.giphy.com/media/l2Je1Yvi3YbdhyWkw/source.gif" alt="">
 
+
+## Just..
+
+Run:
+
+    http://127.0.0.1:8000/graphql
+
 ## Requirements:
 
 -   Django (of course ˆˆ)
@@ -29,7 +36,6 @@ Project is ready to test!
         singledispatch  3.4.0.3
         six             1.13.0 
         sqlparse        0.3.0  
-
 
 
 
