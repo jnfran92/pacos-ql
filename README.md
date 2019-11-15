@@ -1,15 +1,16 @@
-# PacosQL
+# :diamond_shape_with_a_dot_inside: :snake: PacosQL
 
 Playing around with GraphQL and Django!
+Project is ready to test!
 
-<img src="https://i.giphy.com/media/TLIHj45OqIvOE/source.gif" alt="">
-
+<img src="https://i.giphy.com/media/l2Je1Yvi3YbdhyWkw/source.gif" alt="">
 
 ## Requirements:
 
 -   Django (of course ˆˆ)
 -   Graphene
        
+### Pip
         
         Package         Version
         --------------- -------
