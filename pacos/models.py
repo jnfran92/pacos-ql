@@ -5,3 +5,8 @@ from django.db import models
 class Paco(models.Model):
     name = models.CharField(max_length=100)
     has_a_gun = models.BooleanField()
+
+    def __str__(self):
+        return self.name
+
+
