@@ -6,7 +6,7 @@ Project is ready to test!
 <img src="https://i.giphy.com/media/l2Je1Yvi3YbdhyWkw/source.gif" alt="">
 
 
-## Quick and Easy
+## Steps
 
 Run the server and open:
 
