@@ -13,7 +13,9 @@ Project is ready to test. Run the server and open:
     http://127.0.0.1:8000/graphql
 
 
-## Query
+## Playing
+
+There is one Model: `Paco` which is like a kind of Cop ^ ^.
 
 Simple query:
 
