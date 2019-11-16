@@ -8,28 +8,37 @@ Playing around with GraphQL and Django!
 
 
 ## Steps
-Project is ready to test.
-
-Run the server and open:
+Project is ready to test. Run the server and open:
 
     http://127.0.0.1:8000/graphql
 
 
-
 ## Query
 
-Simple query sample:
+Simple query:
+
 
     query{
-       allPacos{
-        edges{
-          node{
-            firstName
-            lastName
-            hasAGun
-            likeDonuts
-            wasteTime
-          }
+      pacos{
+        id
+        firstName
+        lastName
+        likeDonuts
+        hasAGun
+      }
+    }
+ 
+ 
+ 
+Simple mutation:    
+    
+    
+    mutation{
+      createPaco(firstName:"Jhon", lastName:"Doe"){
+        paco{
+          id
+          lastName
+          firstName
         }
       }
     }
