@@ -12,6 +12,27 @@ Run the server and open:
 
     http://127.0.0.1:8000/graphql
 
+
+
+## Query
+
+Simple query sample:
+
+    query{
+       allPacos{
+        edges{
+          node{
+            firstName
+            lastName
+            hasAGun
+            likeDonuts
+            wasteTime
+          }
+        }
+      }
+    }
+
+
 ## Requirements:
 
 See `requirements.txt`
