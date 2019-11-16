@@ -1,12 +1,14 @@
 # :diamond_shape_with_a_dot_inside: :snake: PacosQL
 
 Playing around with GraphQL and Django!
-Project is ready to test!
+
+
 
 <img src="https://i.giphy.com/media/l2Je1Yvi3YbdhyWkw/source.gif" alt="">
 
 
 ## Steps
+Project is ready to test.
 
 Run the server and open:
 
