@@ -35,7 +35,7 @@ Simple query sample:
     }
 
 
-## Requirements:
+## Requirements
 
 See `requirements.txt`
       
