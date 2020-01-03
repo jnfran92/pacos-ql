@@ -1,4 +1,4 @@
-# :diamond_shape_with_a_dot_inside: :snake: PacosQL
+# :pig: :snake: PacosQL
 
 Playing around with GraphQL and Django!
 
@@ -15,7 +15,7 @@ Project is ready to test. Run the server and open:
 
 ## Playing
 
-There is one Model: `Paco` which is like a kind of Cop ^ ^.
+There is just one Model: `Paco` which is a kind of BadCop.
 
 Simple query:
 
