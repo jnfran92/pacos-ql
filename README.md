@@ -2,10 +2,9 @@
 
 Playing around with GraphQL and Django!
 
-
-
 <img src="https://i.giphy.com/media/l2Je1Yvi3YbdhyWkw/source.gif" alt="">
 
+**Note**: Paco is a *BadCop*, QL means *Query Language*, just that :smiley:!
 
 ## Steps
 Project is ready to test. Run the server and open:
